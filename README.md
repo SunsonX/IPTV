@@ -1,5 +1,5 @@
 <h1 align="center"> ★ IPTV Source Collection ★ </h1>
-<h2 align="center">*****************************************************************</h1>
+<h2 align="center">*****************************************************************</h2>
 
 (https://raw.githubusercontent.com/SunsonGuo/IPTV/main/00_drangjchen_IPV6.m3u)
 
