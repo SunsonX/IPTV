@@ -22,11 +22,3 @@ https://github.com/SunsonGuo/IPTV/blob/main/05_wuzhij_ipv6.m3u
 https://github.com/SunsonGuo/IPTV/blob/main/06_HP20230319.m3u  
 
 
-## 🤹‍♂️使用方法:
-
-### 🌇电视/广播图标库：
-
-| 类 别  | 调用路径                                       | 最后更新   |
-|-------|------------------------------------------------|------------|
-| 📺电视  | [https://live.fanmingming.com/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) 
-| 📻广播  | [https://live.fanmingming.com/radio/{name}.png](https://github.com/fanmingming/live/tree/main/radio) 
